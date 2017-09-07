@@ -3,6 +3,10 @@
 
 ## JavaScript
 
+### Basic Concepts
+
+- [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
+
 ### Callback & Promise & async/await
 
 - [JavaScript - from callbacks to async/await](https://medium.com/@daspinola/javascript-from-callbacks-to-async-await-1cc090ddad99)
