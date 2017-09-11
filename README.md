@@ -31,3 +31,7 @@
 
 ### Vue
 ### Angular
+
+## Others
+
+- [Web Development Trends 2017](https://dashbouquet.com/blog/web-development/web-development-trends-2017)
