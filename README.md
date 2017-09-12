@@ -32,6 +32,10 @@
 ### Vue
 ### Angular
 
+## Web VR
+
+- [A Guide To Virtual Reality For Web Developers](https://www.smashingmagazine.com/2017/09/guide-virtual-reality-web-developers/)
+
 ## Others
 
 - [Web Development Trends 2017](https://dashbouquet.com/blog/web-development/web-development-trends-2017)
