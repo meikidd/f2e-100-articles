@@ -44,3 +44,4 @@
 ## Others
 
 - [Web Development Trends 2017](https://dashbouquet.com/blog/web-development/web-development-trends-2017)
+- [Writing a Friendly README](http://rowanmanning.com/posts/writing-a-friendly-readme/)
