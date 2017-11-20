@@ -29,6 +29,7 @@
 
 - [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - [react-lite - Implementation of React optimized for small size - Interview with Jade](https://survivejs.com/blog/react-lite-interview/)
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 ### Vue
 ### Angular
