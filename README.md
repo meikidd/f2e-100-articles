@@ -1,4 +1,4 @@
-# 100 Articles for front end beginners.
+# 100 Articles for front-end developers.
 
 ## JavaScript
 
@@ -8,6 +8,7 @@
 - [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 - [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
 - [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
+- [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)
 - Closure
 - Promise
 - Prototype Chain
